@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<img src="/assets/headshot_cropped.png" width="50" height="50" alt="Bill Chen" style="border-radius: 50%;" /> 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am Bill Chen, a technology entrepreneur, investor and tinkerer. I was a Y Combinator founder (S24). Before that, I worked at Retool as a deployed engineer, working with customers like Netflix, Google and Doordash. Before all of that I held stints at Meta, Morgan Stanley and Bytedance.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I was born in Shanghai. I moved to Canada when I was 9 and got my Bachelors from Columbia University. I currently live in San Francisco.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Here I post my thoughts on technology, entrepreneurship, and investing. All views are my own and do not represent my employers, current or past.
