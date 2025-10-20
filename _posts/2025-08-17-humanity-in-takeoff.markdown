@@ -10,7 +10,7 @@ Progress has been exponential for millennia. Exponentials look flat until the ba
 
 Civilization is young. Modern humans: 300,000 years. Agriculture: 10,000. Writing: 5,000. The Industrial Revolution: 300. On an evolutionary clock, that's nothing. We've gone from stone tools to GPUs in a blink.
 
-People talk about Moore's Law like it started with chips, but the doubling pattern has been around forever. Crop yields, energy output, trade networks, communication speed — all have followed it. Knowledge compounds. Once it starts, it doesn't stop.
+People talk about Moore's Law like it started with chips, but the doubling pattern has been around forever. Crop yields, energy output, trade networks, communication speed  all have followed it. Knowledge compounds. Once it starts, it doesn't stop.
 
 The wheel wasn't random genius. It was part of the same curve. Shape wood, notice rolling logs, build an axle. Step by step, same structure as semiconductors.
 
